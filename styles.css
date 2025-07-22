@@ -1,0 +1,79 @@
+body{
+  font-family:"Poppins",sans-serif;
+   padding:50px 0px;           margin-top:0auto;
+   width:100%;
+   min-height:calc(100vh - 100px);  text-decoration:none;
+   background:linear-gradient(to bottom right,mistyrose,lightpink);
+   text-align:center;
+}
+
+header img {
+  width: 50%;
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 15px;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+
+.tagline{
+  font-style:italic;
+}
+
+hr{
+  border:none;
+  border-top:2px solid black;
+  width:100%;
+}
+
+.section-container{
+  display:flex;
+  justify-content:space-around;
+  gap:20px;
+  padding:20px;
+  color:mediumvioletred;
+}
+section{
+  width:30%;
+  background-color:lavenderblush;
+  padding:15px;
+  border-radius:10px;
+  margin:0 auto;
+}
+
+.custom-bullets{
+  list-style:none;
+  padding-left:0;
+  text-align:left;
+  
+}
+
+.custom-bullets li{
+  background-repeat:no-repeat;
+  background-size:20px 20px;
+  background-position:0 5px;
+  padding-left:30px;
+  margin-bottom:10px;
+}
+
+.custom-bullets.highlights li {
+  background-image: url('https://cdn-icons-png.flaticon.com/512/2089/2089678.png'); 
+}
+
+.custom-bullets.guests li {
+  background-image: url('https://cdn-icons-png.flaticon.com/512/847/847969.png'); 
+}
+
+.custom-bullets.food li {
+  background-image: url('https://cdn-icons-png.flaticon.com/512/3595/3595455.png'); 
+}
+
+footer{
+  text-align:center;
+  color:dimgrey;
+}
+
+.footer{
+  font-style:italic;
+}
