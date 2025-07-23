@@ -4,10 +4,8 @@ An event flyer web page built with HTML and CSS.
 
 ## 🎥 Event Preview
 
-<video width="600" controls>
-  <source src="preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[▶️ Click here to watch the event preview](./preview.mp4)
+
 
 
 
