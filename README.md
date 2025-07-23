@@ -2,10 +2,16 @@
 
 An event flyer web page built with HTML and CSS.
 
-## 🔍 Preview
+## 🎥 Event Preview
+
+<video width="600" controls>
+  <source src="preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
-[Live Preview]()
+
+
 
 ## 📅 Event Details
 - 📍 Main Street & Riverside Avenue, Downtown
